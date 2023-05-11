@@ -1,3 +1,3 @@
 # Solar-System-CSS
 
-# ▶️ PLAY DEMO: 
+# ▶️ PLAY DEMO: https://byzeet.github.io/Solar-System-CSS/
